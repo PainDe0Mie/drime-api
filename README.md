@@ -2,7 +2,7 @@
 
 # Drime API Client
 
-`drime` est un client Python pour l'API Drime. Il permet d'interagir avec les services Drime en utilisant une interface simple.
+`drime` is a Python client for Drime API.
 
 ## Installation
 
