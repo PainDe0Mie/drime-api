@@ -54,3 +54,5 @@ print(share_response)
 link_response = drime_api.create_shareable_link(entry_id="file_id_1")
 print(link_response)
 ```
+
+Make by PainDe0Mie (painde0miie)
