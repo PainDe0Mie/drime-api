@@ -1,6 +1,6 @@
 ![green_drime_python](https://github.com/user-attachments/assets/266b24ad-653c-456e-a2dd-f1a13d38661a)
 
-Hi, this API is no longer maintained. Therefore, I recommend using other libraries such as [PyDrime Github](https://github.com/holgern/pydrime) / [PyDrime PyPI](https://pypi.org/project/pydrime/)
+Hi, this lib is no longer maintained. Therefore, I recommend using other libraries such as [PyDrime Github](https://github.com/holgern/pydrime) / [PyDrime PyPI](https://pypi.org/project/pydrime/)
 
 # Drime Package
 
